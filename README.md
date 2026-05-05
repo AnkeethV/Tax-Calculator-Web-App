@@ -15,11 +15,11 @@ Simplified tax calculation for Salaired, Freelancer and Business personals from 
 
 ## Tech Stack
 
-Framework: Vite + React (fast, simple, client-only)
+- Framework: Vite + React (fast, simple, client-only)
 
-Styling: Tailwind CSS
+- Styling: Tailwind CSS
 
-State Management: Zustand (minimal, fast)
+- State Management: Zustand (minimal, fast)
 
 
 
