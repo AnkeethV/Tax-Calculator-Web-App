@@ -15,6 +15,7 @@ Simplified tax calculation for Salaired, Freelancer and Business personals from 
 - Framework: Vite + React (fast, simple, client-only)
 - Styling: Tailwind CSS
 - State Management: Zustand (minimal, fast)
+- AI: Antigravity, ChatGPT, Kimi K.26
 
 ## Features
 
