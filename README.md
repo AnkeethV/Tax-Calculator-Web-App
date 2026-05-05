@@ -25,7 +25,7 @@ Simplified tax calculation for Salaired, Freelancer and Business personals from 
 - Latest tax rules from FY 2025-26 applied.
 - Gross salary, Rent & HRA, 80C Investments and 80D Health insurance including the max cap.
 - Home loan, NPS, Other Investments and deductions.
-- Surcharge Calculation, Capital gains, PDF export and live tax saving suggestions.
+- Surcharge Calculation, Capital gains, PDF export.
 
 ## Acknowledgements
 [AI PRO](https://codebasics.io/subscriptions/dashboard)
